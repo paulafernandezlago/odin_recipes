@@ -1,0 +1,19 @@
+.title{
+    color:blue;
+    background-color: cornflowerblue;
+}
+.subtitle{
+    color:cornflowerblue;
+    font-weight: 700;
+}
+
+
+.center {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200;
+    width: 250;
+  
+}

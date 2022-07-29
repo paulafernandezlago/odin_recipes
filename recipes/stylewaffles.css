@@ -1,0 +1,19 @@
+.title{
+    color:palevioletred;
+    background-color: lightpink;
+}
+.subtitle{
+    color:lightpink;
+    font-weight: 700;
+}
+
+
+.center {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200;
+    width: 250;
+  
+}
